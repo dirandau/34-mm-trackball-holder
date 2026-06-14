@@ -1,32 +1,10 @@
-# Trackball holder
+# KR SpkitKB Meet Up 기판용 수정판
 
-Assembly made to hold a 35mm trackball.
+수정내용 
 
-- Uses a PMW3360 sensor PCB.
-- Can be integrated into other keyboards
-- Easy to assemble and repair if necessary
+- 하단부 나사홀 M2 암나사용으로 조정
+- 나사홀 간 거리를 37mm에서 31mm로 조정
 
-![assembly](pics/1.JPG)
+![assembly](pics/31mm_m2_hall.png)
 
-![assembly](pics/3.png)
-
-## Material lists
-
-| Item  | Amount | Notes |
-| ------------- | ------------- | ------------- |
-| Bearing   | 3  | MR63-3x6x2.5mm  |
-| M3 screw 8mm | 3  | Torx, tapered  |
-| M3 screw 8mm | 2  | Torx, tapered - For the sensor PCB  |
-| M3 screw insert | 2  |   |
-
-## How to use
-
-In your keyboard, add a ring of 21mm radius, 2mm height.
-
-Screw in from the top and bottom.
-
-![assembly](pics/2.JPG)
-
-# License
-
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+![pcb](pics/IMG_3574.JPG)
